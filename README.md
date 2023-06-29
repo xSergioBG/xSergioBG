@@ -27,5 +27,6 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
 If you have any questions or would like to collaborate on a project, feel free to contact me.
 
 ### My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSergioBG)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?xSergioBG=anuraghazra&show_icons=true&theme=radical)
