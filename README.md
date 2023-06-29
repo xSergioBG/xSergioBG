@@ -15,8 +15,8 @@
 
 ### Proyectos destacados
 
-- [Proyecto 1](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): Descripción breve del proyecto y su importancia.
-- [Proyecto 2](https://github.com/xSergioBG/python-guide): Descripción breve del proyecto y su importancia.
+- [Proyecto 1](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): Falta descripción xd.
+- [Proyecto 2](https://github.com/xSergioBG/python-guide): Falta descripción xd.
 
 ### Habilidades técnicas
 
