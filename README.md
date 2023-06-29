@@ -11,8 +11,10 @@
 
 <h3>Proyectos destacados</h3>
 
-<a href="https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE">Proyecto 1</a>: Descripción breve del proyecto y su importancia.</a>
-  <a href="https://github.com/xSergioBG/python-guide">Proyecto 2</a>: Descripción breve del proyecto y su importancia.</a>
+<ul>
+  <li><a href="https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE">Proyecto 1</a>: Descripción breve del proyecto y su importancia.</li>
+  <li><a href="https://github.com/xSergioBG/python-guide">Proyecto 2</a>: Descripción breve del proyecto y su importancia.</li>
+</ul>
 
 <h3>Habilidades técnicas</h3>
 
@@ -26,6 +28,7 @@
 <h3>Contacto</h3>
 
 <p>Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme.</p>
+
 
 </div>
 
