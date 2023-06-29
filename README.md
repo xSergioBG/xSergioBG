@@ -2,7 +2,7 @@
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zqd2c1bWc2Y3A4aDB0aGF0MHM3NjE5eHRtMnBqaXk4azQ3ODdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="200"/>
    <h1>¡Hola 👋, soy xSergioBG!</h1>
    <p>
-      <a href="https://twitter.com/xSergioBG">Twitter</a> •
+      <a href="https://twitter.com/xSergioBG">Twitter</a>
    </p>
    <h3>Acerca de mí</h3>
    <p>¡Hola! Soy Sergio, un apasionado desarrollador de software con experiencia en diferentes tecnologías y lenguajes de programación. Me encanta resolver problemas y aprender cosas nuevas.</p>
