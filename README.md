@@ -6,6 +6,7 @@
 <div id="badges" align="center">
    <img src="https://img.shields.io/badge/Twitter-xSergioBG-blue?logo=Twitter&link=https%3A%2F%2Ftwitter.com%2FxSergioBG" alt="twitter"/>
    <img src="https://img.shields.io/badge/Reddit-xSergioBG-orange?logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2F_SergioBG_" alt="reddit"/>
+   <img src="https://img.shields.io/badge/Discord-xSergioBG-5865F2?logo=Discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F177831728147202048" alt="discord"/>
 </div>
 
 ### Acerca de mí
