@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
    <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
-   <img src="https://www.reddit.com/user/_SergioBG_" alt="reddit"/>
+   <img src="https://img.shields.io/reddit/user/_SergioBG_" alt="reddit"/>
 </div>
 
 ### Acerca de mí
