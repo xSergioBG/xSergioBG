@@ -29,8 +29,6 @@ If you have any questions or would like to collaborate on a project, feel free t
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
 
-xSergioBG
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xSergioBG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xSergioBG/github-readme-stats#gh-dark-mode-only)
 
 
