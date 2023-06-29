@@ -1,13 +1,11 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zqd2c1bWc2Y3A4aDB0aGF0MHM3NjE5eHRtMnBqaXk4azQ3ODdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="200" style="border-radius: 50%;"/>
    <h1 align="center">¡Hola 👋, soy xSergioBG!</h1>
-   <h3 align="center">La descripción.</h3>
 </div>
 
 <div id="badges" align="center">
    <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
-   <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
-   <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
+   <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="reddit"/>
 </div>
 
 ### Acerca de mí
