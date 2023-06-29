@@ -13,7 +13,7 @@
 
 ### Acerca de mí
 
-¡Hola! Soy Sergio, un apasionado desarrollador de software con experiencia en diferentes tecnologías y lenguajes de programación. Me encanta resolver problemas y aprender cosas nuevas. En mi tiempo libre, disfruto contribuyendo a proyectos de código abierto y compartiendo conocimientos en mi blog.
+¡Hola! Soy Sergio, un apasionado desarrollador de software con experiencia en diferentes tecnologías y lenguajes de programación. Me encanta resolver problemas y aprender cosas nuevas.
 
 ### Proyectos destacados
 
