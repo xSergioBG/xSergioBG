@@ -1,6 +1,7 @@
 <div style="text-align: center; background-color: #f5f5f5; padding: 20px;">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zqd2c1bWc2Y3A4aDB0aGF0MHM3NjE5eHRtMnBqaXk4azQ3ODdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="200" style="border-radius: 50%;"/>
    <h1 style="font-size: 28px; margin-top: 20px;">¡Hola 👋, soy xSergioBG!</h1>
+   <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
    <p style="margin-bottom: 20px;">
       <a href="https://twitter.com/xSergioBG" style="text-decoration: none; color: #1da1f2; font-weight: bold;">Twitter</a>
    </p>
