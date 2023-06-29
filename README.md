@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zqd2c1bWc2Y3A4aDB0aGF0MHM3NjE5eHRtMnBqaXk4azQ3ODdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="200"/>
   <h1 align="center">¡Hola 👋, soy xSergioBG!</h1>
   <p align="center">
     <a href="https://twitter.com/xSergioBG">Twitter</a> •
