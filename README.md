@@ -19,7 +19,7 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
 
 ### Technical Skills
 - Programming Languages: JavaScript, Java, Python
-- Frameworks and Libraries: React
+- Frameworks and Libraries: React, React Native
 - Databases: MySQL, MongoDB
 - Other Tools: Git, AWS
 
