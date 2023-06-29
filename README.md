@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-   <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
+   <img src="https://img.shields.io/badge/Twitter-xSergioBG-blue?logo=Twitter&link=https%3A%2F%2Ftwitter.com%2FxSergioBG" alt="twitter"/>
    <img src="https://img.shields.io/badge/Reddit-xSergioBG-orange?logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2F_SergioBG_" alt="reddit"/>
 </div>
 
