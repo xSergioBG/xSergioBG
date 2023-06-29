@@ -4,26 +4,30 @@
   <p align="center">
     <a href="https://twitter.com/xSergioBG">Twitter</a> •
   </p>
+  
+<h3>Acerca de mí</h3>
+
+<p>¡Hola! Soy Sergio, un apasionado desarrollador de software con experiencia en diferentes tecnologías y lenguajes de programación. Me encanta resolver problemas y aprender cosas nuevas.</p>
+
+<h3>Proyectos destacados</h3>
+
+<ul>
+  <li><a href="https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE">Proyecto 1</a>: Descripción breve del proyecto y su importancia.</li>
+  <li><a href="https://github.com/xSergioBG/python-guide">Proyecto 2</a>: Descripción breve del proyecto y su importancia.</li>
+</ul>
+
+<h3>Habilidades técnicas</h3>
+
+<ul>
+  <li>Lenguajes de programación: JavaScript, Java, Python</li>
+  <li>Frameworks y librerías: React</li>
+  <li>Bases de datos: MySQL, MongoDB</li>
+  <li>Otras herramientas: Git, AWS</li>
+</ul>
+
+<h3>Contacto</h3>
+
+<p>Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme.</p>
+
 </div>
 
----
-
-### Acerca de mí
-
-¡Hola! Soy Sergio, un apasionado desarrollador de software con experiencia en diferentes tecnologías y lenguajes de programación. Me encanta resolver problemas y aprender cosas nuevas.
-
-### Proyectos destacados
-
-- [Proyecto 1](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): Descripción breve del proyecto y su importancia.
-- [Proyecto 2](https://github.com/xSergioBG/python-guide): Descripción breve del proyecto y su importancia.
-
-### Habilidades técnicas
-
-- Lenguajes de programación: JavaScript, Java, Python
-- Frameworks y librerías: React
-- Bases de datos: MySQL, MongoDB
-- Otras herramientas: Git, AWS
-
-### Contacto
-
-Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme a través de mis redes sociales.
