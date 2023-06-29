@@ -18,12 +18,12 @@
 
 <h3>Habilidades técnicas</h3>
 
-<ul>
-  <li>Lenguajes de programación: JavaScript, Java, Python</li>
-  <li>Frameworks y librerías: React</li>
-  <li>Bases de datos: MySQL, MongoDB</li>
-  <li>Otras herramientas: Git, AWS</li>
-</ul>
+
+  <a>Lenguajes de programación: JavaScript, Java, Python</a>
+  <a>Frameworks y librerías: React</a>
+  <a>Bases de datos: MySQL, MongoDB</a>
+  <a>Otras herramientas: Git, AWS</a>
+
 
 <h3>Contacto</h3>
 
