@@ -26,4 +26,5 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
 ### Contact
 If you have any questions or would like to collaborate on a project, feel free to contact me.
 
+### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
