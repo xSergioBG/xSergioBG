@@ -27,15 +27,6 @@
 - Bases de datos: MySQL, MongoDB
 - Otras herramientas: Git, AWS
 
-### Contribuciones a proyectos de código abierto
-
-- [Proyecto 1](URL_DEL_PROYECTO_1): Este proyecto es una boilerplate sencilla para iniciar rápidamente el desarrollo de aplicaciones React.
-- [Proyecto 2](URL_DEL_PROYECTO_2): Guía de python con miniproyectos.
-
-### Blog
-
-Puedes encontrar más sobre mis pensamientos y proyectos en mi [blog](URL_DE_TU_BLOG).
-
 ### Contacto
 
 Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme a través de mis redes sociales.
