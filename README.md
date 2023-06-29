@@ -4,9 +4,6 @@
   <p align="center">
     <a href="https://twitter.com/xSergioBG">Twitter</a> •
   </p>
-  <p align="center">
-    Breve descripción sobre ti y tus intereses.
-  </p>
 </div>
 
 ---
