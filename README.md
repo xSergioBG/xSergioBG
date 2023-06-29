@@ -28,3 +28,4 @@ If you have any questions or would like to collaborate on a project, feel free t
 
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSergioBG)](https://github.com/anuraghazra/github-readme-stats)
