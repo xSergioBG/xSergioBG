@@ -14,8 +14,8 @@
 Hello! I'm Sergio, a passionate software developer with experience in different technologies and programming languages. I love solving problems and learning new things.
 
 ### Featured Projects
-- [Proyecto 1](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): This project is a simple boilerplate to quickly start developing React applications.
-- [Proyecto 2](https://github.com/xSergioBG/python-guide): This is a mini-course on Python with examples.
+- [React Boilerplate](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): This project is a simple boilerplate to quickly start developing React applications.
+- [Python Course](https://github.com/xSergioBG/python-guide): This is a mini-course on Python with examples.
 
 ### Technical Skills
 - Programming Languages: JavaScript, Java, Python
