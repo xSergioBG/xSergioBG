@@ -31,6 +31,6 @@ If you have any questions or would like to collaborate on a project, feel free t
 
 xSergioBG
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xSergioBG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/xSergioBG/github-readme-stats#gh-dark-mode-only)
 
 
