@@ -3,7 +3,6 @@
    <h1 style="font-size: 28px; margin-top: 20px;">¡Hola 👋, soy xSergioBG!</h1>
    <img src="https://img.shields.io/twitter/follow/xSergioBG?label=Follow%20%40xSergioBG&style=social" alt="twitter"/>
 </div>
----
 
 ### Acerca de mí
 
