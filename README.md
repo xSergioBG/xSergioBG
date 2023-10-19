@@ -11,7 +11,7 @@
 
 ### About Me
 
-Hello! I'm Sergio, a passionate software developer with experience in different technologies and programming languages. I love solving problems and learning new things.
+Hello! I'm Sergio, a passionate software developer with experience in different technologies and programming languages.
 
 ### Featured Projects
 - [React Boilerplate](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): This project is a simple boilerplate to quickly start developing React applications.
