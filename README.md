@@ -18,8 +18,8 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
 - [Python Course](https://github.com/xSergioBG/python-guide): This is a mini-course on Python with examples.
 
 ### Technical Skills
-- Programming Languages: JavaScript, Java, Python
-- Frameworks and Libraries: React, React Native
+- Programming Languages: JavaScript, Java, Python, C#
+- Frameworks and Libraries: React, React Native, Angular, .NET
 - Databases: MySQL, MongoDB
 - Other Tools: Git, AWS
 
