@@ -16,6 +16,8 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
 ### Featured Projects
 - [React Boilerplate](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): This project is a simple boilerplate to quickly start developing React applications.
 - [Python Course](https://github.com/xSergioBG/python-guide): This is a mini-course on Python with examples.
+- [React-Native Calculator](https://github.com/xSergioBG/React-Native-Calculator): This project consists of a calculator application developed using React Native.
+- [React-Native StopWatch](https://github.com/xSergioBG/React-Native-Stopwatch): This project consists of a stopwatch application developed using React Native.
 
 ### Technical Skills
 - Programming Languages: JavaScript, Java, Python, C#
