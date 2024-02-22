@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zqd2c1bWc2Y3A4aDB0aGF0MHM3NjE5eHRtMnBqaXk4azQ3ODdqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="200" style="border-radius: 50%;"/>
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FKShukhrat%2FKShukhrat%2Fmain%2Fassets%2Fheader_gif.gif&f=1&nofb=1&ipt=819fa98a3a33ee894a4d0b3cfa7dcdea9fb1eecf7a17ab16ab473e8621fda9b5&ipo=images" width="1080" style="border-radius: 50%;"/>
    <h1>Hi, I'm Sergio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 </div>
 <div align="center">
