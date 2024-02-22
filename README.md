@@ -19,10 +19,10 @@
 Hello! I'm Sergio, a passionate software developer with experience in different technologies and programming languages.
 
 ### Featured Projects
-- [React Boilerplate](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE): This project is a simple boilerplate to quickly start developing React applications.
-- [Python Course](https://github.com/xSergioBG/python-guide): This is a mini-course on Python with examples.
-- [React-Native Calculator](https://github.com/xSergioBG/React-Native-Calculator): This project consists of a calculator application developed using React Native.
-- [React-Native StopWatch](https://github.com/xSergioBG/React-Native-Stopwatch): This project consists of a stopwatch application developed using React Native.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xSergioBG&repo=python-guide)](https://github.com/xSergioBG/python-guide)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xSergioBG&repo=React-Native-Stopwatch)](https://github.com/xSergioBG/React-Native-Stopwatch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xSergioBG&repo=React-Native-Calculator)](https://github.com/xSergioBG/React-Native-Calculator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xSergioBG&repo=REACT-PERSONAL-BOILERPLATE)](https://github.com/xSergioBG/REACT-PERSONAL-BOILERPLATE)
 
 ### Technical Skills
 <table>
