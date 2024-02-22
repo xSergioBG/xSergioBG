@@ -64,32 +64,6 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
   </tr>
 </table>
 
-
-</div>
-
-## Me around the web:
--------------------
-
-&emsp;
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/Sergio-BG">
-    ![CodePen: Sergio-BG](https://img.shields.io/badge/Sergio-BG?&logo=CodePen)
-</a>
-
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
 
