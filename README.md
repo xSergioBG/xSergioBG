@@ -1,6 +1,9 @@
 <div align="center">
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FKShukhrat%2FKShukhrat%2Fmain%2Fassets%2Fheader_gif.gif&f=1&nofb=1&ipt=819fa98a3a33ee894a4d0b3cfa7dcdea9fb1eecf7a17ab16ab473e8621fda9b5&ipo=images" width="1080" style="border-radius: 50%;"/>
-   <h1>Hi, I'm Sergio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+   <h1>Hi, I'm Sergio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1> 
+      <a href="https://www.codewars.com/users/xSergioBG">
+      <img src="https://www.codewars.com/users/xSergioBG/badges/small" alt="codewars"/>
+   </a>
 </div>
 <div align="center">
    <a href="https://twitter.com/xSergioBG">
@@ -12,6 +15,7 @@
    <a href="https://discordapp.com/users/177831728147202048">
       <img src="https://img.shields.io/badge/Discord-xSergioBG-5865F2?logo=Discord&link=https%3A%2F%2Fdiscordapp.com%2Fusers%2F177831728147202048" alt="discord"/>
    </a>
+
 </div>
 
 ### About Me
@@ -63,9 +67,28 @@ Hello! I'm Sergio, a passionate software developer with experience in different 
 
 </div>
 
+## Me around the web:
+-------------------
 
-### Contact
-If you have any questions or would like to collaborate on a project, feel free to contact me.
+&emsp;
+<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
+    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+</a>
+<a href="https://github.com/berkeli">
+    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+</a>
+<a href="https://stackoverflow.com/users/14958897/berkeli">
+    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
+</a>
+<a href="https://www.codewars.com/users/BerkeliH">
+    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
+</a>
+<a href="https://www.leetcode.com/berkeli/">
+    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
+</a>
+<a href="https://codepen.io/Sergio-BG">
+    ![CodePen: Sergio-BG](https://img.shields.io/badge/Sergio-BG?&logo=CodePen)
+</a>
 
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark)](https://git.io/streak-stats)
