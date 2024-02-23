@@ -46,7 +46,7 @@
       </tr>
    </table>
    <h3>My Stats</h3>
-   <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark" alt="GitHub Streak"></a></p>
    <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSergioBG&layout=compact&theme=dark" alt="Top Langs"></a></p>
+   <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xSergioBG&theme=dark" alt="GitHub Streak"></a></p>
 </div>
 </div>
